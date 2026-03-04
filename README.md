@@ -13,9 +13,15 @@ Aquí iré subiendo:
 - consultas interesantes que vaya descubriendo
 Mi objetivo es construir un espacio organizado y útil tanto para mí como para cualquiera que esté empezando en SQL.
 
-🛠️ Tecnologías y herramientas
-• 	SQLite (según vaya avanzando)
-• 	VS Code + extensiones de SQL
+## 🛠️ Tecnologías y herramientas
+
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![SQL Tools](https://img.shields.io/badge/SQL%20Extensions-CC2927?style=for-the-badge&logo=databricks&logoColor=white)
+
+- **SQLite** — Base de datos ligera ideal para aprender SQL desde cero.
+- **Visual Studio Code** — Editor principal para escribir consultas y organizar el proyecto.
+- **Extensiones de SQL** — Para resaltar sintaxis, ejecutar consultas y visualizar resultados.
 
 📌 Estado actual
 Estoy empezando, así que el contenido irá creciendo poco a poco.
