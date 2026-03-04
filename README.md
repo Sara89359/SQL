@@ -21,8 +21,6 @@ Mi objetivo es construir un espacio organizado y útil tanto para mí como para 
 Estoy empezando, así que el contenido irá creciendo poco a poco.
 Este repositorio es un espacio vivo y en constante evolución.
 
-![Status](https://img.shields.io/badge/Status-In%20Progress-yellow?style=for-the-badge)
-
 🤝 Contribuciones
 Si quieres aportar ideas, ejercicios o mejoras, ¡adelante!
 Toda sugerencia es bienvenida.
